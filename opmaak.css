@@ -34,12 +34,24 @@ ul {
 		color: #333;
 }
 
-.index{	width: 75%;
+footer{		
+		color:#333;
+}
+
+.index{	
+		width: 75%;
+		color: #333;
 }
 
 .Hackers {
 		color: #333;
 		width: 75%;
+}
+
+.Overons{
+		width:75%;
+		color: #333;
+		background-color:#72B7FA;
 }
 
 .Benodigdevaardigheden{
@@ -49,13 +61,22 @@ ul {
 
 .Watisidigitalebeveiliging{
 		color: #333
+		width: 75%;
+}
+
+.Waaromjezelfdigitaalbeveiligen{
+		width:75%;
+		color: #333;
 }
 
 .desleepwet{
 		width:75%;
+		color: #333;
 }
+
 .veiligheidsbewust{
 		width:75%;
+		color: #333;
 }
 
 .Beveiligingomzeilen{
@@ -70,6 +91,7 @@ ul {
 
 .tipsomjecomputertebeschermen{
 		width:75%;
+		color: #333;
 }
 
 nav {
